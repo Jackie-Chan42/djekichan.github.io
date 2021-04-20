@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+menu {
+ box-shadow: 4px 5px 15px black;
+ background-color: black;
+
+}
+.menu li {
+ display: inline-block;
+ padding: 20px;
+ color: white;
+ font-family: 'Oswald', sans-serif;
+}
+.menu li:hover {
+ background-color: white;
+ color: black;
+}
+body {
+background-color: #3fe8c6;
+text-align: center;
+}
+h1 {
+text-align: center;
+background-color: #000000;
+color: white;
+}
+h2 {
+color:#f5de11;
+background-color: #000000;
+}
+li{
+background-color: white;
+}
